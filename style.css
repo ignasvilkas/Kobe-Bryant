@@ -21,3 +21,24 @@ h1 {
     border-color: black;
     border: 5px solid;
 }
+
+p {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 40px;
+    color: #d1de00;
+}
+
+ul {
+    font-size: 30px;
+}
+
+.stats-pic {
+    width: 800px;
+    border-radius: 15px;
+    border-color: black;
+    border: 5px solid;
+}
