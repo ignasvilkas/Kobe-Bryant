@@ -34,6 +34,8 @@ h2 {
 
 ul {
     font-size: 30px;
+    font-weight: bold;
+    list-style-type: none;
 }
 
 .stats-pic {
@@ -47,4 +49,8 @@ ul {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
+}
+
+.more {
+    color: red;
 }
