@@ -6,8 +6,8 @@ body {
 h1 {
     font-size: 50px;
     background-image: linear-gradient(to right, #d1de00 , #5200ff);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 .beginning {
