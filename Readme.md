@@ -1,0 +1,1 @@
+Creating a tribute page for Kobe Bryant as requested by Founders and Coders for the application
